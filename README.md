@@ -17,6 +17,7 @@ add other awesome Kurds, including you!
 + [Data Science and AI](#data-science-and-ai)
 + [Project Management](#project-management)
 + [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
++ [Business Intelligence](#business-intelligence)
 
 ## Software Development
 
@@ -95,4 +96,10 @@ add other awesome Kurds, including you!
 - [Rebaz Omer](https://twitter.com/Randoz)
 
 ## Cloud Architecture and System Design
+
 - [Arya Jemo](https://www.aryajemo.com)
+- [Servan Ararad](https://twitter.com/ServanArarad)
+
+## Business Intelligence
+
+- [Servan Ararad](https://twitter.com/ServanArarad)
